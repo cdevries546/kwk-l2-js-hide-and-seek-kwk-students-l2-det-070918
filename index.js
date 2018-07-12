@@ -4,7 +4,7 @@ return document.querySelector(s)
 }
 
 function nestedTarget(target) {
-
+return document.querySelector(.target)
 }
 
 
